@@ -1,0 +1,31 @@
+Script started on 2022-02-18 21:14:47-05:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="142" LINES="39"]
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab5[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab5[00m$ a[K./a.out
+Now showing list One:
+Charlie
+Lisa
+Drew
+Derrick
+AJ
+Bojian
+Enter a name to search: AJ
+That name is stored at address: 0x556548acdf70
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab5[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab5[00m$ ./a.out
+Now showing list One:
+Charlie
+Lisa
+Drew
+Derrick
+AJ
+Bojian
+Enter a name to search: DREWWW
+That name is not in the list.
+Drew
+Derrick
+AJ
+Bojian
+Charlie
+Lisa
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab5[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab5[00m$ exit
+exit
+
+Script done on 2022-02-18 21:15:06-05:00 [COMMAND_EXIT_CODE="0"]
